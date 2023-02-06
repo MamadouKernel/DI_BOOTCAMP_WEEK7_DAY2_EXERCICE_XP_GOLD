@@ -1,5 +1,11 @@
 package exercice1;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Point {
     private int x;
     private int y;
@@ -58,3 +64,10 @@ public class Point {
         return Math.sqrt(Math.pow(this.x - 0, 2) + Math.pow(this.y - 0, 2)) ;
     }
 }
+
+
+/*
+*
+*@author Konate-Mk
+*
+*/

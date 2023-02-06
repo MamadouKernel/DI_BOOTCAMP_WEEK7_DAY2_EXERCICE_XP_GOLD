@@ -1,5 +1,11 @@
 package exercice2;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Number {
     private int nombre;
 
@@ -15,3 +21,9 @@ public class Number {
         this.nombre = nombre;
     }
 }
+
+/*
+*
+*@author Konate-Mk
+*
+*/

@@ -1,5 +1,9 @@
 package exercice1;
-
+/*
+*
+*@author Konate-Mk
+*
+*/
 public class Line{
     private Point begin;
     private Point end;
@@ -86,3 +90,10 @@ public class Line{
         return begin.distance(end);
     }
 }
+
+
+/*
+*
+*@author Konate-Mk
+*
+*/

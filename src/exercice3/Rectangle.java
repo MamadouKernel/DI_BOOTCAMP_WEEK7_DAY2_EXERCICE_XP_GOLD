@@ -1,5 +1,11 @@
 package exercice3;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Rectangle {
     private int longeur;
     private int largeur;
@@ -25,3 +31,9 @@ public class Rectangle {
         this.largeur = largeur;
     }
 }
+
+/*
+*
+*@author Konate-Mk
+*
+*/
